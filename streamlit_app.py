@@ -132,9 +132,9 @@ txt4('Ocean Decarb Dashboard', 'A tool to drive performance management of ocean 
 st.markdown('''
 ## Skills
 ''')
-txt3('Programming', '`Python`, `DAX`')
+txt3('Programming', '`Python`, `DAX - Power BI`')
 txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
-txt3('Data visualization', '`matplotlib`, `seaborn`, `plotly`, `altair`, `ggplot2`')
+txt3('Data visualization', '`matplotlib`, `seaborn`, `plotly`, `ggplot2`')
 txt3('Machine Learning', '`scikit-learn`')
 txt3('Deep Learning', '`TensorFlow`')
 txt3('Web development', '`Flask`, `HTML`, `CSS`')
