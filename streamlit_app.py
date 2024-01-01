@@ -121,9 +121,9 @@ st.markdown('''
 
 #####################
 st.markdown('''
-## BI Tools
+## Web Tools deployed on Cloud
 ''')
-txt4('Ocean Decarb Dashboard', 'A tool to drive performance management of ocean and drive the decarb agenda', 'https://app.powerbi.com/groups/')
+txt4('Code Explainer', 'A Gen AI tool to write, simplify and debug project code', 'https://codebreaker.streamlit.app/')
 txt4('CII Predictor', 'A CII tool to predict carbon intensity index of a vessel based on improvement factors year on year', 'https://allthewaycii.streamlit.app/')
 txt4('EEOI Impact', 'An IP tool to calculate the emission reduction by replacement of old vessel with new one','https://gogreen-investment.streamlit.app/')
 
