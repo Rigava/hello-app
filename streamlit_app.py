@@ -92,7 +92,7 @@ st.markdown('''
 ## Education
 ''')
 
-txt('**Supply Chain and Logistic** (MBA), *SPJAIN School of Global Management*, Sydney',
+txt('**Supply Chain and Logistic** (MBA), *SPJAIN School of Global Management*, Sydney/Dubai/Singapore',
 '2015-2016')
 st.markdown('''
 - GPA: `3.2`
@@ -124,8 +124,8 @@ st.markdown('''
 ## BI Tools
 ''')
 txt4('Ocean Decarb Dashboard', 'A tool to drive performance management of ocean and drive the decarb agenda', 'https://app.powerbi.com/groups/')
-# txt4('AutoWeka', 'An automated data mining software based on Weka', 'http://www.mt.mahidol.ac.th/autoweka/')
-# txt4('ACPred', 'A computational tool for the prediction and analysis of anticancer peptides','http://codes.bio/acpred/')
+txt4('CII Predictor', 'A CII tool to predict carbon intensity index of a vessel based on improvement factors year on year', 'https://allthewaycii.streamlit.app/')
+txt4('EEOI Impact', 'An IP tool to calculate the emission reduction by replacement of old vessel with new one','https://gogreen-investment.streamlit.app/')
 
 
 #####################
