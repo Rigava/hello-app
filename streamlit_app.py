@@ -115,7 +115,7 @@ st.markdown('''
 txt('**Advance Analytics Specialist**, Maersk Line, Mumbai',
 '2021-Present')
 st.markdown('''
-- Managing a vessel reporting data product with help of `10` data engineers, power bi specialist and sme to ensure KPIs are strategically achieved as per IMO guidelines, namely EEOI and CII report on monthly basis. 
+- Building data product with help of data engineers, power bi specialist and sme to ensure KPIs are strategically achieved as per IMO guidelines, namely EEOI and CII report on monthly basis. 
 - Actively lead cost initiative projects that can have potential impact of 30 million dollar.
 ''')
 
