@@ -18,7 +18,7 @@ st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
 - Experienced Supply chain professional, with almost twenty years of experience in data-oriented environment and a passion for delivering insights based on predictive modeling. 
 - Strong in problem solving as demonstrated by extensive projects such in decarbonising ocean logistic network.
-- Strong track record in developmnet of data products to manage vessel performance.
+- Strong track record in developmnet of data products and automate workflow to manage vessel performance.
 ''')
 
 
