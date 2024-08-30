@@ -123,9 +123,9 @@ st.markdown('''
 st.markdown('''
 ## Web Tools deployed on Cloud
 ''')
+txt4('Smart Reader', 'A Gen AI tool to chat with large pdf in minutes','https://smartreaders.streamlit.app/')
 txt4('Code Explainer', 'A Gen AI tool to write, simplify and debug project code', 'https://codebreaker.streamlit.app/')
 txt4('CII Predictor', 'A CII tool to predict carbon intensity index of a vessel based on improvement factors year on year', 'https://allthewaycii.streamlit.app/')
-txt4('Smart Reader', 'A Gen AI tool to chat with large pdf in minutes','https://smartreaders.streamlit.app/')
 txt4('Data Quality', 'An Data Quality tool to check uniqueness,integrity and accuracy','https://dataquality.streamlit.app/')
 
 
