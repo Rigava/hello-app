@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 
-st.set_page_config(page_title="Decarb sailor", page_icon=":bar_chart:", layout="wide")
+st.set_page_config(page_title="Decarb sailor", page_icon=":bar_chart:")
 
 with open("style.css") as f:
     st.markdown('<style>{}</style>'.format(f.read()), unsafe_allow_html=True)
