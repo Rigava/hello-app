@@ -36,7 +36,7 @@ st.markdown("""
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
-        <a class="nav-link disabled" href="https://akj786.pythonanywhere.com/">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link disabled" href="https://akj786.pythonanywhere.com/"> Decarb Blog <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#education">Education</a>
@@ -45,7 +45,7 @@ st.markdown("""
         <a class="nav-link" href="#work-experience">Work Experience</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#Web-Tools">Web Tools deployed on Cloud</a>
+        <a class="nav-link" href="#AI-Tools">AI Tools</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#social-media">Social Media</a>
@@ -121,7 +121,7 @@ st.markdown('''
 
 #####################
 st.markdown('''
-## Web Tools deployed on Cloud
+## AI Tools
 ''')
 txt4('Smart Reader', 'A Gen AI tool to chat with large pdf in minutes','https://smartreaders.streamlit.app/')
 txt4('Code Explainer', 'A Gen AI tool to write, simplify and debug project code', 'https://codebreaker.streamlit.app/')
